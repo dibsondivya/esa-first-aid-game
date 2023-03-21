@@ -1,2 +1,2 @@
-# esa-first-aid-game
+# First Aid Game
 RShiny-based First Aid Game
